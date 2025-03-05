@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <settings default="AGPL">
+    <module2copyright>
+      <element module="Project Files" copyright="Header" />
+      <element module="All" copyright="Header" />
+    </module2copyright>
+  </settings>
+</component>
